@@ -3,7 +3,7 @@
     "type": "drupal-module",
     "version": "0.1",
     "dist": {
-        "url": "git@github.com:markaspot/features.git",
+        "url": "git@github.com:degov/features.git",
         "type": "vcs"
     },
     "require": {
