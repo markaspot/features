@@ -5,5 +5,8 @@
     "dist": {
         "url": "git@github.com:deGov/features.git",
         "type": "vcs"
+    },
+    "require": {
+        "composer/installers": "~1.0"
     }
 }
